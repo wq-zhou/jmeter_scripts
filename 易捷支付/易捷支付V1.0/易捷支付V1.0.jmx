@@ -55,15 +55,15 @@
       </ThreadGroup>
       <hashTree>
         <IncludeController guiclass="IncludeControllerGui" testclass="IncludeController" testname="用户模块" enabled="true">
-          <stringProp name="IncludeController.includepath">易捷支付V1.0/用户模块.jmx</stringProp>
+          <stringProp name="IncludeController.includepath">用户模块.jmx</stringProp>
         </IncludeController>
         <hashTree/>
         <IncludeController guiclass="IncludeControllerGui" testclass="IncludeController" testname="商品模块" enabled="true">
-          <stringProp name="IncludeController.includepath">易捷支付V1.0/商品模块.jmx</stringProp>
+          <stringProp name="IncludeController.includepath">商品模块.jmx</stringProp>
         </IncludeController>
         <hashTree/>
         <IncludeController guiclass="IncludeControllerGui" testclass="IncludeController" testname="订单模块" enabled="true">
-          <stringProp name="IncludeController.includepath">易捷支付V1.0/订单模块.jmx</stringProp>
+          <stringProp name="IncludeController.includepath">订单模块.jmx</stringProp>
         </IncludeController>
         <hashTree/>
       </hashTree>
